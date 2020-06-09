@@ -10,8 +10,8 @@ Mastermind Board Game
   python manage.py migrate
 4. Create users:
   python manage.py createsuperuser --email admin@example.com --username admin
-5. Postman to test the API
-  * Import 21Buttons.postman.collection.json y Test.postman_environment.json al cliente de postman
+5. USe Postman to test the API
+  * Import 21Buttons.postman.collection.json y Test.postman_environment.json into Postman
 6. API calls from Postman:
   * Login
   * New Game
