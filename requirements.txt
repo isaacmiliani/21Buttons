@@ -2,7 +2,7 @@ certifi==2019.6.16
 chardet==3.0.4
 coverage==4.5.3
 Django==2.2.2
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 Dumper==1.2.0
 factory-boy==2.12.0
 Faker==1.0.7
